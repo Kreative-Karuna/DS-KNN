@@ -11,9 +11,9 @@ KNN is one of the simplest forms of machine learning algorithms mostly used for 
 ## Constraints :  There can be more features & factors to classify the animals.
 
 ##  Boolean features	    Non-Boolean features    Description
-  hair                  	animal name	      Name of the animal
-  feathers             		legs	            Legs of the animals : values - 0,2,4,5,6,8
-  eggs                  	type	            Class of animals : integer values in range 1 - 7
+  hair                  	animal name :	      Name of the animal
+  feathers             		legs	    :       Legs of the animals : values - 0,2,4,5,6,8
+  eggs                  	type	    :        Class of animals : integer values in range 1 - 7
   milk	        
   airborne	    
   aquatic	      
